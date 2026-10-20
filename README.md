@@ -20,11 +20,8 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for architecture diagrams and component d
 - Docker Desktop with Docker Compose
 
 ## Clone the repository
-
-Replace `<your-public-repository-url>` with your actual GitHub repository URL:
-
 ```bash
-git clone <your-public-repository-url>
+git clone git@github.com:shujaa786/transaction-webhook-service.git
 cd transaction-webhook-service
 ```
 
